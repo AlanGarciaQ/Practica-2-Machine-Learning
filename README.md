@@ -1,4 +1,4 @@
-#Uso de Machine Learning para programar en Python 
+# Uso de Machine Learning para programar en Python 
 **Objetivo:** Creación de Machine Learning 
 
 ![Logo](https://github.com/AlanGarciaQ/Practica-2-Machine-Learning/blob/main/imagenes/Machine%20Learning.jpg)
