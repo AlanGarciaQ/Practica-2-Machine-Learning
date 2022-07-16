@@ -9,6 +9,7 @@
 
 **Pasos**
 Se inicia sesión en la página de Azure
+
 ![Imagen 1](https://github.com/AlanGarciaQ/Practica-2-Machine-Learning/blob/main/imagenes/Imagen1.png)
 
 Se busca la palabra “Azure Machine Learning” en la barra de búsqueda y se da enter 
@@ -30,6 +31,7 @@ En lo que se crea el recurso nos muestra la siguiente ventana que nos indica que
 ![imagen 7](https://github.com/AlanGarciaQ/Practica-2-Machine-Learning/blob/main/imagenes/Imagen7.png)
 
 Una vez que se terminaron de crear las implementación se nos muestra la siguiente ventana que nos manda el mensaje de que se completó la implementación. 
+
 ![imagen 8](https://github.com/AlanGarciaQ/Practica-2-Machine-Learning/blob/main/imagenes/Imagen8.png)
 
 Ingresamos a la página de ml.Azure.com e iniciamos sesión  
